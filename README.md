@@ -1,4 +1,4 @@
-## TON Wallet Smart Contracts Collection
+# TON Wallet Smart Contracts Collection
 
 We created a collection of well-known smart wallets to make it easy for users and developers to navigate through them. The root of the repository contains directories with the names of such contracts, and they in turn contain versions directories in sequential versioning format (i.e. `v1`, `v2`, `v3` etc.). Each version can contain revision directories(i.e. `r0`, `r1`, `r2` etc.). 
 
@@ -8,10 +8,11 @@ Also the final directory of the contract has its own license and `README.md` fil
 
 ## Navigation
 
-**wallet**
-- v3
-- - [r0](wallet/v3/r0/)
-- - [r2](wallet/v3/r2/)
+### `wallet`
+| version | revision | src                                                |
+|---------|----------|----------------------------------------------------|
+| `v3`    | `r0`     | [`/wallet/v3/r0/`](wallet/v3/r0/)                  |
+| `v3`    | `r2`     | [`/wallet/v3/r0/`](wallet/v3/r2/)                  |
 
 ## Feedback
 

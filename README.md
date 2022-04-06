@@ -8,10 +8,10 @@ Also the final directory of the contract has its own license and `README.md` fil
 
 ## Navigation
 
-- wallet
-- - v3
-- - - [r0](wallet/v3/r0/)
-- - - [r2](wallet/v3/r2/)
+**wallet**
+- v3
+- - [r0](wallet/v3/r0/)
+- - [r2](wallet/v3/r2/)
 
 ## Feedback
 

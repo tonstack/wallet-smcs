@@ -14,6 +14,11 @@ Also the final directory of the contract has its own license and `README.md` fil
 | `v3`    | `r0`     | [`/wallet/v3/r0/`](wallet/v3/r0/)                  |
 | `v3`    | `r2`     | [`/wallet/v3/r0/`](wallet/v3/r2/)                  |
 
+### `highload-wallet`
+| version | revision | src                                                |
+|---------|----------|----------------------------------------------------|
+| `v2`    | `-`      | [`/highload-wallet/v2/`](highload-wallet/v2/)      |
+
 ## Feedback
 
 If you find a problem, or want to include your own version of the wallet, or noticed a copyright violation, or you have another reason for feedback, please just create [an issue.](https://github.com/tonstack/wallet-smcs/issues)

@@ -10,4 +10,4 @@ Also the final directory of the contract has its own license and `README.md` fil
 
 ## Feedback
 
-If you find a problem, or want to include your own version of the wallet, please create [an issue.](https://github.com/tonstack/wallet-smcs/issues) 
+If you find a problem, or want to include your own version of the wallet, or noticed a copyright violation, or you have another reason for feedback, please just create [an issue.](https://github.com/tonstack/wallet-smcs/issues)

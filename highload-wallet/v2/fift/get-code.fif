@@ -1,10 +1,10 @@
 "auto/code.fif" include
 
 ."Source code BOC in hexadecimal:" cr
-dup <s csr. cr
-
-."Source code cell human readable:" cr 
 dup 2 boc+>B Bx. cr cr
+
+."Source code cell human readable:" cr
+dup <s csr. cr
 
 ."Source code cell sha256 hash in hex:" cr 
 hashu X. cr

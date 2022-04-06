@@ -22,3 +22,9 @@ Also the final directory of the contract has its own license and `README.md` fil
 ## Feedback
 
 If you find a problem, or want to include your own version of the wallet, or noticed a copyright violation, or you have another reason for feedback, please just create [an issue.](https://github.com/tonstack/wallet-smcs/issues)
+
+## Disclaimer of liability
+
+This is a repository with repositories. TonStack assumes no responsibility for the content of user contracts and their security. You use these contracts at your own risk.
+
+Despite this, we take a responsible approach to the addition of this repository, most of the contracts (or even all) presented here are developed by TON himself or our team.

@@ -6,6 +6,8 @@ If a contract has more than one revision, its initial representation automatical
 
 Also the final directory of the contract has its own license and `README.md` files, and can be considered as a separate repository. We did not include deprecated contracts or non-secure contracts(in our view) in the repository.
 
+Due to the fact that some third-party repositories with wallet contracts are poorly structured, we added our own description to them, some fift scripts and decomposed the files into the necessary repositories so that it would be easier for you to work with them. We don't change the FunC/Fift-ASM contracts code.
+
 ## Navigation
 
 ### `wallet`

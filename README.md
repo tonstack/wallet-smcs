@@ -14,7 +14,7 @@ Due to the fact that some third-party repositories with wallet contracts are poo
 | version | revision | src                                                |
 |---------|----------|----------------------------------------------------|
 | `v3`    | `r0`     | [`/wallet/v3/r0/`](wallet/v3/r0/)                  |
-| `v3`    | `r2`     | [`/wallet/v3/r0/`](wallet/v3/r2/)                  |
+| `v3`    | `r2`     | [`/wallet/v3/r2/`](wallet/v3/r2/)                  |
 
 ### `highload-wallet`
 | version | revision | src                                                |
